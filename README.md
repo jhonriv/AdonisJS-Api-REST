@@ -5,7 +5,7 @@
   <div class="subtitle">
     <p>Node.js Framework highly focused on developer ergonomics, stabily and confidence</p>
     <p>
-      This App is a basic test of what you can do with this framework in a simple and fast way and with a high level of security and validations.
+      This API-REST with JWT authentication, is a basic test of what you can do with this framework in a simple and fast way and with a high level of security and validations.
     </p>
 </div>
 </section>
